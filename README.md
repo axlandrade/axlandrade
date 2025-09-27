@@ -1,6 +1,6 @@
 ### Hi, I'm Axl Silva de Andrade 👋
 
-I'm a **researcher and developer** with a Master's degree in **Mathematical and Computational Modeling**. My passion is applying math and computing to solve complex problems. As a Mathematics teacher and teaching assistant, I bring an analytical mindset to my projects, focusing on optimization, network, and data analysis.
+I'm a **researcher and developer** with a Master's degree in progress in **Mathematical and Computational Modeling**. My passion is applying math and computing to solve complex problems. As a Mathematics teacher and teaching assistant, I bring an analytical mindset to my projects, focusing on optimization, network, and data analysis.
 
 ---
 
