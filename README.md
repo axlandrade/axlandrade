@@ -34,7 +34,7 @@ I'm a **researcher and developer** with a Master's degree in progress in **Mathe
 * **Master's:** Mathematical and Computational Modeling (in progress) - UFRRJ.
 * **Bachelor's:** Mathematics (Licentiate) - UFRRJ, 2025.
 * **Languages:** English (Fluent), Spanish (Intermediate).
-* **Programming Languages:** Python, Java, C, C++, HTML, CSS, JavaScript, Octave.
+* **Programming Languages:** Python, Java, C, C++, HTML, CSS, JavaScript, Octave, Jupyter, Java.
 * **Tools:** Gurobi, NetworkX, NumPy, Matplotlib, LaTeX.
 
 ---
